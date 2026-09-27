@@ -1,10 +1,10 @@
-# Example Model
+# Lamborghini Diablo Ashtray (body only)
 
 **MakerWorld:** TODO: add link (https://makerworld.com/...)
 
 ## Files
 
-- `example-model.blend`: Blender source file
+- `diablo-ashtray.blend`: Blender source file
 
 ## Print settings
 

@@ -6,7 +6,8 @@ A collection of my 3D printing models: source Blender files plus links to where 
 
 | Model | Blender file | MakerWorld |
 |-------|--------------|------------|
-| _Example model_ | [`models/example-model/`](models/example-model/) | [Link](https://makerworld.com/) <!-- TODO: replace with the model's MakerWorld URL --> |
+| Lamborghini Diablo Ashtray (body only) | [`diablo-ashtray.blend`](models/diablo-ashtray/diablo-ashtray.blend) | [Link](https://makerworld.com/) <!-- TODO: MakerWorld URL --> |
+| Lamborghini Diablo Windscreen Washer Tank Cap | [`diablo-washer-tank-cap.blend`](models/diablo-washer-tank-cap/diablo-washer-tank-cap.blend) | [Link](https://makerworld.com/) <!-- TODO: MakerWorld URL --> |
 
 ## Structure
 
