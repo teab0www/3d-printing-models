@@ -4,7 +4,9 @@
 
 ## Files
 
-- `diablo-ashtray.blend`: Blender source file
+- `diablo_ashtray.blend`: Blender source file
+- `diablo_ashtray.stl`: mesh for any slicer
+- `diablo_ashtray.3mf`: Bambu Studio project, ready to print
 
 ## Print settings
 

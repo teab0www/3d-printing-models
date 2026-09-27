@@ -4,9 +4,9 @@ A collection of my 3D printing models: source Blender files plus links to where 
 
 ## Models
 
-| Model | Blender file | MakerWorld |
+| Model | Files | MakerWorld |
 |-------|--------------|------------|
-| Lamborghini Diablo Ashtray (body only) | [`diablo-ashtray.blend`](models/diablo-ashtray/diablo-ashtray.blend) | [Link](https://makerworld.com/) <!-- TODO: MakerWorld URL --> |
+| Lamborghini Diablo Ashtray (body only) | [`.blend`](models/diablo-ashtray/diablo_ashtray.blend) · [`.stl`](models/diablo-ashtray/diablo_ashtray.stl) · [`.3mf`](models/diablo-ashtray/diablo_ashtray.3mf) | [Link](https://makerworld.com/) <!-- TODO: MakerWorld URL --> |
 | Lamborghini Diablo Windscreen Washer Tank Cap | [`diablo-washer-tank-cap.blend`](models/diablo-washer-tank-cap/diablo-washer-tank-cap.blend) | [Link](https://makerworld.com/) <!-- TODO: MakerWorld URL --> |
 
 ## Structure
