@@ -5,10 +5,3 @@
 ## Files
 
 - `diablo-washer-tank-cap.blend`: Blender source file
-
-## Print settings
-
-- Material:
-- Layer height:
-- Supports:
-- Infill:
