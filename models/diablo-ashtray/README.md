@@ -1,6 +1,6 @@
 # Lamborghini Diablo Ashtray (body only)
 
-**MakerWorld:** TODO: add link (https://makerworld.com/...)
+**MakerWorld:** https://makerworld.com/en/models/3371735-ashtray-for-lamborghini-diablo-body-only
 
 ## Files
 
